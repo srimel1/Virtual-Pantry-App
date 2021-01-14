@@ -46,5 +46,13 @@
         </style>
 
 
+
+        <!-- Base application theme. -->
+        <style name="AppBarTrans" parent="Theme.AppCompat.Light">
+            <item name="colorPrimary">@android:color/transparent</item>
+            <item name="windowActionBarOverlay">true</item>
+        </style>
+
+
     </resources>
 
