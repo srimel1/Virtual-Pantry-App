@@ -23,10 +23,9 @@ Lifecycle is the expected ammount of time a user expects they will consume the i
 Virtual Pantry App
 
 
-![RecyclerView](https://github.com/srimel1/Virtual-Pantry-App/blob/testing2/art/appshot1.PNG?raw=true)
-![Add Item Dialog](https://github.com/srimel1/Virtual-Pantry-App/blob/testing2/art/appshot2.PNG?raw=true)
-![Item Detail Service](https://github.com/srimel1/Virtual-Pantry-App/blob/testing2/art/appshot3.PNG?raw=true)
-![App Drawer](https://github.com/srimel1/Virtual-Pantry-App/blob/testing2/art/appshot4.PNG?raw=true)
 
-
-<img src="https://github.com/srimel1/Virtual-Pantry-App/blob/testing2/art/appshot4.PNG" width="100">
+Screen Shots
+<img src="https://github.com/srimel1/Virtual-Pantry-App/blob/testing2/art/appshot1.PNG" width="400">
+<img src="https://github.com/srimel1/Virtual-Pantry-App/blob/testing2/art/appshot2.PNG" width="400">
+<img src="https://github.com/srimel1/Virtual-Pantry-App/blob/testing2/art/appshot3.PNG" width="400">
+<img src="https://github.com/srimel1/Virtual-Pantry-App/blob/testing2/art/appshot4.PNG" width="400">
