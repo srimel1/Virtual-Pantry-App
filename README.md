@@ -25,14 +25,14 @@ Virtual Pantry App
 
 
 Screen Shots:
-RecyclerView with Firebase Recycler Adapter
+RecyclerView with Firebase Recycler Adapter<br>
 <img src="https://github.com/srimel1/Virtual-Pantry-App/blob/testing2/art/appshot1.PNG" width="400"><br>
 
-Add Item Google Material Dialog
+Add Item Google Material Dialog<br>
 <img src="https://github.com/srimel1/Virtual-Pantry-App/blob/testing2/art/appshot2.PNG" width="400"><br>
 
-Item Detail Service with Lifecylce Countdown
+Item Detail Service with Lifecylce Countdown<br>
 <img src="https://github.com/srimel1/Virtual-Pantry-App/blob/testing2/art/appshot3.PNG" width="400"><br>
 
-App Drawer
+App Drawer<br>
 <img src="https://github.com/srimel1/Virtual-Pantry-App/blob/testing2/art/appshot4.PNG" width="400">
