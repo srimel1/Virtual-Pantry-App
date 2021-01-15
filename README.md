@@ -24,4 +24,4 @@ Virtual Pantry App
 
 ![alt text](https://codd.cs.gsu.edu/~srimel1/WP/HW/06/appshot.PNG)
 
-![alt text](https://github.com/srimel1/Virtual-Pantry-App/appshot.PNG?raw=true)
+![alt text](https://github.com/srimel1/Virtual-Pantry-App/blob/testing2/art/icon.png?raw=true)
