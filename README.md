@@ -22,6 +22,8 @@ The app allows the user to add and track items in their pantry. The app also all
 Lifecycle is the expected ammount of time a user expects they will consume the item, and the item is automatically added into the user's grocery list.
 Virtual Pantry App
 
-![alt text](https://codd.cs.gsu.edu/~srimel1/WP/HW/06/appshot.PNG)
 
-![alt text](https://github.com/srimel1/Virtual-Pantry-App/blob/testing2/art/icon.png?raw=true)
+![RecyclerView](https://github.com/srimel1/Virtual-Pantry-App/blob/testing2/art/appshot1.png?raw=true)
+![Add Item Dialog](https://github.com/srimel1/Virtual-Pantry-App/blob/testing2/art/appshot2.png?raw=true)
+![Item Detail Service](https://github.com/srimel1/Virtual-Pantry-App/blob/testing2/art/appshot3.png?raw=true)
+![App Drawer](https://github.com/srimel1/Virtual-Pantry-App/blob/testing2/art/appshot4.png?raw=true)
