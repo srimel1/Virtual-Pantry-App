@@ -21,3 +21,5 @@ How it works:
 The app allows the user to add and track items in their pantry. The app also allows the user to add items to grocery lists and to track their recipes.
 Lifecycle is the expected ammount of time a user expects they will consume the item, and the item is automatically added into the user's grocery list.
 Virtual Pantry App
+
+![alt text](https://codd.cs.gsu.edu/~srimel1/WP/HW/06/appshot.PNG)
